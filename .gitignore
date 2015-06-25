@@ -1,10 +1,13 @@
 *.exe
 *.lock
+*.sublime-*
 *.swp
+*~
+*.cargo/
 tags*
 build/
 build-tests/
 target/
+/bin/
 /.idea
-/bin
 /.project
